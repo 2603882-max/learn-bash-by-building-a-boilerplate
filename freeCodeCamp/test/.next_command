@@ -93,3 +93,4 @@ touch footer,jpeg
 rm footer,jpeg
 ls --color=auto
 touch footer.jpeg
+ls --color=auto
