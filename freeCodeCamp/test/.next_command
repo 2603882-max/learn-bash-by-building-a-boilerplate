@@ -170,3 +170,9 @@ mv footer.jpeg client/assets/images
 mv images/footer.jpeg client/assets/images
 find
 rmdir images
+find images
+find -name background.png
+cd images
+ls --color=auto
+cd ..
+rm images/background.jpg
